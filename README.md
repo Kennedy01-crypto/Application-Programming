@@ -32,6 +32,16 @@ This repository contains implementations of a simple number guessing game in thr
   - Uses standard input/output for user interaction.
   - Generates a random number and allows the user to guess it with feedback.
 
+### 4. RandomNumberGuessGame.cs (C#)
+
+- **Description**: This is the C# implementation of the number guessing game.
+- **Features**:
+  - Welcomes the user and explains the game.
+  - Generates a random number between 0 and 99.
+  - Allows the user to make 7 guesses.
+  - Provides feedback on whether the guess is too high, too low, or correct.
+  - Displays the correct number if the user fails to guess it within the allowed attempts.
+
 ## Conclusion
 
 All three implementations demonstrate the same core functionality of a number guessing game, showcasing how the same logic can be applied across different programming languages. Each implementation has its own syntax and libraries, but the overall structure and flow of the game remain consistent.
